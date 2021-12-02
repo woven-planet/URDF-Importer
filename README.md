@@ -1,4 +1,4 @@
-# URDF Importer 
+# URDF Importer
 
 [![Version](https://img.shields.io/github/v/tag/Unity-Technologies/URDF-Importer)](https://github.com/Unity-Technologies/URDF-Importer/releases)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.md)
@@ -12,7 +12,7 @@ URDF Importer allows you to import a robot defined in [URDF](http://wiki.ros.org
 
 1. Open the Package Manager from Unity Menu. Click `Window -> Package Manager`. A new package manager window will appear.
 
-2. Click on the `+` sign on the top left corner of the package manager window and click on `Add Package from Git URL`. 
+2. Click on the `+` sign on the top left corner of the package manager window and click on `Add Package from Git URL`.
 
 <img src = "images~/Package_manager_add.png">
 
@@ -47,8 +47,8 @@ This repo is a fork of [ROS#](https://github.com/siemens/ros-sharp) and was a gr
 
 ## Community and Feedback
 
-The Unity Robotics projects are open-source and we encourage and welcome contributions. 
-If you wish to contribute, be sure to review our [contribution guidelines](CONTRIBUTING.md) 
+The Unity Robotics projects are open-source and we encourage and welcome contributions.
+If you wish to contribute, be sure to review our [contribution guidelines](CONTRIBUTING.md)
 and [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Support
@@ -56,7 +56,7 @@ For questions or discussions about Unity Robotics package installations or how t
 
 For feature requests, bugs, or other issues, please file a [GitHub issue](https://github.com/Unity-Technologies/URDF-Importer/issues) using the provided templates and the Robotics team will investigate as soon as possible.
 
-For any other questions or feedback, connect directly with the 
+For any other questions or feedback, connect directly with the
 Robotics team at [unity-robotics@unity3d.com](mailto:unity-robotics@unity3d.com).
 
 ## License
